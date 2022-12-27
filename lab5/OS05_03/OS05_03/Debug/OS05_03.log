@@ -1,0 +1,6 @@
+﻿  OS05_03.cpp
+E:\5sem\OS\labs\lab5\OS05_03\OS05_03\OS05_03.cpp(149,39): warning C4477: "sscanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "unsigned __int64 *"
+E:\5sem\OS\labs\lab5\OS05_03\OS05_03\OS05_03.cpp(149,39): message : рекомендуется использовать "%lld" в строке форматирования
+E:\5sem\OS\labs\lab5\OS05_03\OS05_03\OS05_03.cpp(149,39): message : рекомендуется использовать "%I64d" в строке форматирования
+E:\5sem\OS\labs\lab5\OS05_03\OS05_03\OS05_03.cpp(150,53): warning C4244: аргумент: преобразование "unsigned __int64" в "DWORD_PTR", возможна потеря данных
+  OS05_03.vcxproj -> E:\5sem\OS\labs\lab5\OS05_03\Debug\OS05_03.exe
